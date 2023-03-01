@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    background-image: url(img2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Tilt Prism', cursive;
+    text-align: center;
+    color: orange;
+}
+h4{
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    color: orange;
+}
+hr{
+    border-color: orange;
+}
+ul{
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+    text-align: left;
+}
+p{
+    color: whitesmoke;
+}
+div{
+    background-color: rgba(128, 128, 128, 0.589);
+    padding: 2%;
+    border: solid orange;
+}
